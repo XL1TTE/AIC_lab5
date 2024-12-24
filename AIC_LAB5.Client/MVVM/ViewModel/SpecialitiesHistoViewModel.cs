@@ -40,7 +40,7 @@ namespace AIC_LAB5.Client.MVVM.ViewModel
         }
 
 
-        public RelayCommand UpdateHistDataCommand {  get; set; }
+        public RelayCommand UpdateHistDataCommand { get; set; } = null!;
 
         public Func<double, string> HistValuesFormatter { get; set; } = value => Math.Round(value, 1).ToString();
         private void InitializeCommands()

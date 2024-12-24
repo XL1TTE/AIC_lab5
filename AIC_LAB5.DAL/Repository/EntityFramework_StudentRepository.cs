@@ -12,27 +12,33 @@ namespace ViewModel
     public class EntityFramework_StudentRepository : IEntityRepository<Student>
     {
 
-        public void Create(Student entity)
+        public void Create(Student? entity)
         {
 
             using (ApplicationContext db = new ApplicationContext())
             {
+                if (entity != null)
+                {
+                    db.Students.Add(entity);
 
-                db.Students.Add(entity);
-
-                db.SaveChanges();
+                    db.SaveChanges();
+                }
             }
         }
 
-        public void Delete(Student entity)
+        public void Delete(Student? entity)
         {
 
             using (ApplicationContext db = new ApplicationContext())
             {
 
-                db.Students.Remove(entity);
+                if(entity != null)
+                {
+                    db.Students.Remove(entity);
 
-                db.SaveChanges();
+                    db.SaveChanges();
+                }
+
             }
         }
 
@@ -45,18 +51,23 @@ namespace ViewModel
             }
         }
 
-        public void Update(Student toUpdate, Student newData)
+        public void Update(Student? toUpdate, Student? newData)
         {
             using(ApplicationContext db = new ApplicationContext())
             {
-                var student = db.Students.Find(toUpdate.Id);
-                if (student != null)
+                if (toUpdate != null)
                 {
-                    student.Name = newData.Name;
-                    student.Speciality = newData.Speciality;
-                    student.Group = newData.Group;
-                    db.SaveChanges();
+                    var student = db.Students.Find(toUpdate.Id);
+
+                    if (student != null && newData != null)
+                    {
+                        student.Name = newData.Name;
+                        student.Speciality = newData.Speciality;
+                        student.Group = newData.Group;
+                        db.SaveChanges();
+                    }
                 }
+
             }
         }
     }
