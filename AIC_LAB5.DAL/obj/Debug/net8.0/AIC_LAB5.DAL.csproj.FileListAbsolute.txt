@@ -1,0 +1,17 @@
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\bin\Debug\net8.0\AIC_LAB5.DAL.deps.json
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\bin\Debug\net8.0\AIC_LAB5.DAL.dll
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\bin\Debug\net8.0\AIC_LAB5.DAL.pdb
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\obj\Debug\net8.0\AIC_LAB5.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\obj\Debug\net8.0\AIC_LAB5.DAL.AssemblyInfoInputs.cache
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\obj\Debug\net8.0\AIC_LAB5.DAL.AssemblyInfo.cs
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\obj\Debug\net8.0\AIC_LAB5.DAL.csproj.CoreCompileInputs.cache
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\obj\Debug\net8.0\AIC_LAB5.DAL.dll
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\obj\Debug\net8.0\refint\AIC_LAB5.DAL.dll
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\obj\Debug\net8.0\AIC_LAB5.DAL.pdb
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\obj\Debug\net8.0\ref\AIC_LAB5.DAL.dll
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\bin\Debug\net8.0\AIC_LAB5.Domain.dll
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\bin\Debug\net8.0\AIC_LAB5.Domain.pdb
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\obj\Debug\net8.0\AIC_LAB5.DAL.csproj.AssemblyReference.cache
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\obj\Debug\net8.0\AIC_LAB5.06149616.Up2Date
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\bin\Debug\net8.0\AIC_LAB5.DAL.runtimeconfig.json
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.DAL\obj\Debug\net8.0\AIC_LAB5.DAL.genruntimeconfig.cache
