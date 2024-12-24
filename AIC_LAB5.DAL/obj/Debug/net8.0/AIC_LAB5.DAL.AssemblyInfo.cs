@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AIC_LAB5.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9617e831ef177556f9cbf3d674cfb224cc048535")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcc97ec925a1ed32a67df0e9b0a0375ece875fba")]
 [assembly: System.Reflection.AssemblyProductAttribute("AIC_LAB5.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AIC_LAB5.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
