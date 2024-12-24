@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AIC_LAB5.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9bee7ba9adb051eaaa2c750e37de6ca45ccd9ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("AIC_LAB5.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AIC_LAB5.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

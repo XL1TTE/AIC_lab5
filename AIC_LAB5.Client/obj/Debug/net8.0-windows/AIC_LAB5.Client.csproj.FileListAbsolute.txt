@@ -156,3 +156,4 @@ C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.Client\bin\Debug\net8.0-windows\zh
 C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.Client\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.Client\bin\Debug\net8.0-windows\LiveCharts.dll
 C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.Client\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.Client\obj\Debug\net8.0-windows\AIC_LAB5.Client.sourcelink.json

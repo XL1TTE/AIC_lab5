@@ -11,9 +11,9 @@
                     </ControlTemplate>
                 </Setter.Value>
             </Setter>
-            <Setter Property="Background" Value="Gray"/>
+            <Setter Property="Background" Value="LightGray"/>
             <Setter Property="BorderBrush" Value="Black"/>
-            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="BorderThickness" Value="1"/>
         </Style.Setters>
 
         <Style.Triggers>

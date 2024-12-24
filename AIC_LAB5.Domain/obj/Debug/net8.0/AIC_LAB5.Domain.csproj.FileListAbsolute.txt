@@ -9,3 +9,4 @@ C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.Domain\obj\Debug\net8.0\AIC_LAB5.D
 C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.Domain\obj\Debug\net8.0\refint\AIC_LAB5.Domain.dll
 C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.Domain\obj\Debug\net8.0\AIC_LAB5.Domain.pdb
 C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.Domain\obj\Debug\net8.0\ref\AIC_LAB5.Domain.dll
+C:\Users\zzzxl\source\repos\AIC_LAB5\AIC_LAB5.Domain\obj\Debug\net8.0\AIC_LAB5.Domain.sourcelink.json
